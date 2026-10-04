@@ -1,0 +1,92 @@
+Rajarshi Ray Source-Available License
+Free Use; Redistribution Requires Permission
+Version 1.0
+
+Copyright (c) 2026 Rajarshi Ray
+Contact: rajarshir@gmail.com
+
+1. Scope
+
+This license applies only to rights that Rajarshi Ray (the "Licensor") is
+entitled to license in the original tutorial text, illustrations, HTML, CSS,
+JavaScript, example code, sample data and documentation in this project,
+including the original materials in the embedded DevGuide project kit
+(collectively, the "Materials"). Third-party materials are excluded as
+described in section 5.
+
+This is a source-available license with redistribution restrictions. It is
+not an open-source license under the Open Source Definition.
+
+2. Free use and modification
+
+Subject to these terms, the Licensor grants you a non-exclusive, worldwide,
+royalty-free permission to access, read, download, execute, study and modify
+the Materials for your own personal, educational or internal business use.
+You may make local, backup and internal copies reasonably necessary for
+these uses. Within your organization, you may provide such copies to staff
+who need them for these permitted uses, provided the copies retain this
+license and are not made available outside the organization.
+
+You may apply the ideas and techniques taught by the Materials in your own
+work, including commercial work. This license does not assert ownership of
+your independently created applications, model weights or outputs, nor
+restrict them merely because you learned from or used the Materials. Copies
+of the Materials or substantial portions of them remain subject to these
+terms when included in other works.
+
+3. Restricted redistribution
+
+Except for the internal copies allowed in section 2, the rights preserved
+in section 6, or separate prior written permission from the Licensor, you
+may not redistribute, republish, mirror, publicly rehost, sell, sublicense
+or otherwise supply copies of the Materials or substantial portions of
+them to third parties. This restriction applies to original, modified and
+translated versions, including copies bundled in another product, course,
+website or downloadable archive.
+
+You may freely share a link to the official tutorial:
+https://rajarshi-personal.github.io/language-model-development-tutorial/
+
+For redistribution or public hosting permission, contact:
+rajarshir@gmail.com
+
+4. Notices
+
+Retain this license and the applicable copyright and attribution notices
+in copies you are permitted to make. Identify your modifications without
+implying that the Licensor authored or endorsed them. No trademark or
+endorsement rights are granted.
+
+5. Third-party rights remain unchanged
+
+Third-party libraries, dependencies, tools, model weights, datasets,
+documentation and other third-party materials remain the property of their
+respective rights holders and are governed by their own applicable licenses
+and notices. The Licensor does not claim ownership of or relicense them.
+
+Nothing in this license adds restrictions to permissions granted directly
+by a third-party license, or excuses compliance with that license. Where
+third-party material is separately licensed, its license governs that
+material. Referencing, importing, linking to or downloading a third-party
+component does not make it subject to this license.
+
+6. Legal exceptions and hosting-platform rights
+
+Nothing here limits rights or exceptions that applicable law makes
+available independently of this license, including applicable fair-use or
+fair-dealing rights. Nor does this license withdraw rights the Licensor
+grants through the applicable hosting platform's terms, such as GitHub's
+platform-level rights to view or fork a public repository. Such rights do
+not by themselves grant permission to operate another public tutorial site.
+
+7. No warranty; limitation of liability
+
+To the extent permitted by applicable law, the Materials are provided "as
+is", without warranties of any kind, including warranties of accuracy,
+fitness for a particular purpose, merchantability or non-infringement.
+You are responsible for evaluating and testing the Materials for your use.
+To the extent permitted by applicable law, the Licensor is not liable for
+claims, damages or other liability arising from the Materials or their use.
+
+All rights not expressly granted by this license, applicable law or other
+applicable permissions are reserved by their respective rights holders.

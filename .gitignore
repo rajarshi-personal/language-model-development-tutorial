@@ -1,0 +1,4 @@
+# Local browser and project verification artifacts; not part of the tutorial.
+.browser-check/
+.verification/
+_site/
