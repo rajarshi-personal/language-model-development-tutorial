@@ -61,6 +61,15 @@ restriction. The single HTML remains self-contained.
 
 ## Included learning activities
 
+- A build studio that maps facts, response style, or both to a concrete build
+  strategy, artifacts and evaluation criteria
+- A six-policy Acorn handbook inspector with JSON and JSONL previews, explicit
+  training/validation/test topic labels, and source-to-example explanations
+- A controllable training versus inference walkthrough using the same POST
+  question, with visible target availability and weight-update counters
+- An animated LoRA lifecycle (attach, update, save, use) and a calculated matrix
+  experiment showing how adapter values affect a frozen base's output
+- Expandable lesson explanations and practical exercises in all eight lessons
 - An animated question-to-answer pipeline
 - A RAG / fine-tuning / pretraining decision explorer
 - Next-token probability and temperature experiments
@@ -81,6 +90,15 @@ storage when available.
 
 ## Validation performed
 
+- October 7 workshop update: verified all new selectors, six policy records,
+  JSON/JSONL structure, held-out topic labels, loop navigation, playback/pause,
+  mode-switch cancellation, adapter lifecycle and numeric slider results.
+- Rechecked existing preparation, retrieval, vectors, quizzes and animations;
+  all scripts parsed and Chrome reported zero JavaScript runtime exceptions.
+- Checked the four new workshops at 1440, 390 and 320 px, including dark theme
+  and reduced motion, with network access disabled and no page overflow.
+- Compared all 22 embedded project files with the previous Git revision;
+  their contents, including the license, are unchanged by this update.
 - Opened the page in headless Chrome with network access disabled.
 - Checked the main controls, deployment switch, quizzes and progress tracking.
 - Checked both preparation paths, animation playback/pause/reset, vector scores,
